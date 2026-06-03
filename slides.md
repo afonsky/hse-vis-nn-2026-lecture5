@@ -57,6 +57,10 @@ src: ./slides/0_intro.md
 ---
 
 ---
+src: ./slides/1_multidimensional.md
+---
+
+---
 src: ./slides/1_spatial_data.md
 ---
 

@@ -7,12 +7,20 @@ layout: center
 
 # Геоданные: фоновая картограмма (Choropleth)
 
+<div class="grid grid-cols-[12fr_1fr] gap-1">
+<div>
 <br>
 <figure>
   <img src="/textbook/fig_8.2.svg" style="width: 600px !important;">
 <figcaption style="color:#b3b3b3ff; font-size: 11px; position: relative; top: 20px; left: 0px;">Источник изображения:
 <a href="https://www.cs.ubc.ca/~tmm/vadbook/">Рис. 8.2. T. Munzner. Visualization Analysis and Design (2014)</a></figcaption>
 </figure>
+</div>
+<div class="mt-82">
+
+##### См. также [https://observablehq.com/<br>collection/@d3/d3-geo](https://observablehq.com/collection/@d3/d3-geo)
+</div>
+</div>
 
 ---
 

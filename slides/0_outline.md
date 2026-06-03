@@ -31,17 +31,17 @@
   <tr>
     <td class="tg-1p0a">28 апреля</td>
     <td class="tg-jdzo">18:10</td>
-    <td class="tg-o7ju">📖Лекция 1: Введение в визуализацию данных</td>
+    <td class="tg-o7ju"><a href="https://afonsky.github.io/hse-vis-nn-2026-lecture1">📖Лекция 1: Введение в визуализацию данных</a></td>
   </tr>
   <tr>
     <td class="tg-1p0a">12 мая</td>
     <td class="tg-jdzo">18:10</td>
-    <td class="tg-o7ju">📖Лекция 2: Зрительная система и визуализация данных</td>
+    <td class="tg-o7ju"><a href="https://afonsky.github.io/hse-vis-nn-2026-lecture2">📖Лекция 2: Зрительная система и визуализация данных</a></td>
   </tr>
   <tr>
     <td class="tg-1p0a" rowspan="2">13 мая</td>
     <td class="tg-jdzo">18:10</td>
-    <td class="tg-o7ju">📖Лекция 3: Зрительное восприятие и цвет</td>
+    <td class="tg-o7ju"><a href="https://afonsky.github.io/hse-vis-nn-2026-lecture3">📖Лекция 3: Зрительное восприятие и цвет</a></td>
   </tr>
   <tr>
     <td class="tg-jdzo">19:40</td>
@@ -50,7 +50,7 @@
   <tr>
     <td class="tg-1p0a" rowspan="2">19 мая</td>
     <td class="tg-jdzo">18:10</td>
-    <td class="tg-o7ju">📖Лекция 4: Различение визуальной информации</td>
+    <td class="tg-o7ju"><a href="https://afonsky.github.io/hse-vis-nn-2026-lecture4">📖Лекция 4: Различение визуальной информации</a></td>
   </tr>
   <tr>
     <td class="tg-jdzo">19:40</td>
@@ -59,7 +59,7 @@
   <tr>
     <td class="tg-mevj" rowspan="2">3 июня</td>
     <td class="tg-nqm6">18:10</td>
-    <td class="tg-e4vo">📖Лекция 5: Продвинутая визуализация данных</td>
+    <td class="tg-e4vo"><a href="https://afonsky.github.io/hse-vis-nn-2026-lecture5">📖Лекция 5: Продвинутая визуализация данных</a></td>
   </tr>
   <tr>
     <td class="tg-jdzo">19:40</td>
